@@ -1,4 +1,3 @@
-Netflix-data-vizualizer
 # Visualize Data with QuickSight
 
 ## Project Overview
@@ -16,7 +15,7 @@ Amazon QuickSight is a cloud-based BI tool from AWS used for creating interactiv
   - Genre breakdowns.
   - Comparison of Movies vs. TV Shows.
 
-![Netflix Data Visualization](/Images/final.png)
+![Final Visualization](images/final.png)
 
 - **Interactive Dashboard:** Built to showcase insights and explore patterns effectively.
 
