@@ -15,8 +15,8 @@ Amazon QuickSight is a cloud-based BI tool from AWS used for creating interactiv
   - Genre breakdowns.
   - Comparison of Movies vs. TV Shows.
 
-[![Final Visualization](Netflix-data-vizualizer/Images/final.png)](https://github.com/Shakti242/Netflix-data-vizualizer/blob/main/Images/%20final.png)
-)
+[![Final Visualization](https://github.com/Shakti242/Netflix-data-vizualizer/blob/main/Images/%20final.png)
+
 
 - **Interactive Dashboard:** Built to showcase insights and explore patterns effectively.
 
@@ -25,7 +25,7 @@ Amazon QuickSight is a cloud-based BI tool from AWS used for creating interactiv
 ## Project Steps
 
 ### 1. Upload Project Files to S3
-![S3 Setup](images/s3-setup.png)
+![S3 Setup](https://github.com/Shakti242/Netflix-data-vizualizer/blob/main/Images/Datasetfile.png)
 - Stored the dataset and `manifest.json` in an S3 bucket.
 - Edited the `manifest.json` file to update the S3 URI of the dataset, ensuring correct references.
 
