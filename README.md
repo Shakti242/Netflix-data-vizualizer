@@ -37,9 +37,10 @@ Amazon QuickSight is a cloud-based BI tool from AWS used for creating interactiv
 ### 3. Connect Dataset to QuickSight
 - Linked S3 bucket to QuickSight through Datasets.
 - `manifest.json` file served as a map, describing data locations and structure.
+- ![Final Visualization](https://github.com/Shakti242/Netflix-data-vizualizer/blob/main/Images/DatasetCreation.png)
 
 ### 4. First Visualization
-![Movies vs TV Shows Visualization](images/movies-vs-tvshows.png)
+![Movies vs TV Shows Visualization](https://github.com/Shakti242/Netflix-data-vizualizer/blob/main/Images/3.png)
 - **Chart Created:** Movies vs. TV Shows by Release Year.
 - **Process:** Added Release Year to the Y-axis and grouped by Type (Movies or TV Shows).
 
@@ -47,10 +48,10 @@ Amazon QuickSight is a cloud-based BI tool from AWS used for creating interactiv
 - Excluded data for releases before 2015.
 - Focused on three specific genres released post-2015.
 
-![Filtered Data Visualization](images/filtered-data.png)
+![Filtered Data Visualization](https://github.com/Shakti242/Netflix-data-vizualizer/blob/main/Images/%204.png)
 
 ### 6. Setting up a Dashboard
-![Dashboard Example](images/dashboard-example.png)
+![Dashboard Example](https://github.com/Shakti242/Netflix-data-vizualizer/blob/main/Images/%205.png)
 - Rearranged visuals for better presentation.
 - Exported the dashboard as a PDF for sharing.
 
