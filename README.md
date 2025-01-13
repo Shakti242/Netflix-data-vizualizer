@@ -32,7 +32,7 @@ Amazon QuickSight is a cloud-based BI tool from AWS used for creating interactiv
 ### 2. Create a QuickSight Account
 - Created a free QuickSight account.
 - Setup took only a minute.
-- (https://github.com/Shakti242/Netflix-data-vizualizer/blob/main/Images/Quicksighrt%20dashboard.png)
+- ![QUICKSIGHT Visualization](https://github.com/Shakti242/Netflix-data-vizualizer/blob/main/Images/Quicksighrt%20dashboard.png)
 
 ### 3. Connect Dataset to QuickSight
 - Linked S3 bucket to QuickSight through Datasets.
