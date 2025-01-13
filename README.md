@@ -15,7 +15,8 @@ Amazon QuickSight is a cloud-based BI tool from AWS used for creating interactiv
   - Genre breakdowns.
   - Comparison of Movies vs. TV Shows.
 
-![Final Visualization](final.png)
+![Final Visualization](Images/final.png)
+)
 
 - **Interactive Dashboard:** Built to showcase insights and explore patterns effectively.
 
