@@ -56,6 +56,6 @@ Amazon QuickSight is a cloud-based BI tool from AWS used for creating interactiv
 - Exported the dashboard as a PDF for sharing.
 
 ---
-
+ 
 ## Key Takeaways
 This project demonstrated the power of Amazon QuickSight for creating insightful visualizations. It also emphasized the importance of data cleaning in generating accurate analytics.
